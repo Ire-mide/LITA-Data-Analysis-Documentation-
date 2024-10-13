@@ -15,3 +15,8 @@ The primary source
       3. For Data Visualization 
 #### - SQL- Structured Query Language 
 #### - GitHub for Portforlio building 
+
+### Data Cleaning and Preparation
+
+### Exploratory Data Analysis
+
