@@ -20,3 +20,9 @@ The primary source
 
 ### Exploratory Data Analysis
 
+### Data Analysis Basic line of code and functions used in SQL
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
